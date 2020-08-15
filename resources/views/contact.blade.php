@@ -2,5 +2,4 @@
 
 @section('content')
 @endsection
-<H1> หน้าแรก </H1>
-
+<H1> ติดต่อ </H1>
